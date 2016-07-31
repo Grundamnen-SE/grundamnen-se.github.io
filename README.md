@@ -1,2 +1,1 @@
-# grundamnen-se.github.io
-Grundamnen repo.
+# https://grundamnen-se.github.io/
